@@ -1,0 +1,35 @@
+setup
++ K e1
++ k e8
++ & a4
++ Y h3
++ R c4
+- c4
+- K e1
+- e1
++ k d3
++ k e2
++ R e3
++ K a1
++ K a2
++ Q g5
++ p b8
++ p c8
++ P h8
++ P e1
++ p c6
+done
+- b8
+- c8
+- h8
+- e1
+done
+- d3
+- e2
+done
+- a2
+= black
+done
+- e3
+done
+game player1 player2

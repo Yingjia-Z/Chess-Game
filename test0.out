@@ -1,0 +1,115 @@
+8 rnbqkbnr
+7 pppppppp
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2 PPPPPPPP
+1 RNBQKBNR
+          
+  abcdefgh
+
+--white a's turn--
+8 rnbqkbnr
+7 pppppppp
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _P_ _
+3 _ _ _ _ 
+2 PPPP PPP
+1 RNBQKBNR
+          
+  abcdefgh
+
+--black b's turn--
+8 rnbqkbnr
+7 ppp pppp
+6  _ _ _ _
+5 _ _p_ _ 
+4  _ _P_ _
+3 _ _ _ _ 
+2 PPPP PPP
+1 RNBQKBNR
+          
+  abcdefgh
+
+--white a's turn--
+8 rnbqkbnr
+7 ppp pppp
+6  _ _ _ _
+5 _ _P_ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2 PPPP PPP
+1 RNBQKBNR
+          
+  abcdefgh
+
+--black b's turn--
+8 rnb_kbnr
+7 ppp pppp
+6  _ _ _ _
+5 _ _q_ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2 PPPP PPP
+1 RNBQKBNR
+          
+  abcdefgh
+
+--white a's turn--
+8 rnb_kbnr
+7 ppp pppp
+6  _ _ _ _
+5 _ _q_ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2 PPPPKPPP
+1 RNBQ_BNR
+          
+  abcdefgh
+
+--black b's turn--
+8 rnb_kbnr
+7 ppp pppp
+6  _ _ _ _
+5 _ _ q _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2 PPPPKPPP
+1 RNBQ_BNR
+          
+  abcdefgh
+
+--White is in check.--
+--white a's turn--
+8 rnb_kbnr
+7 ppp pppp
+6  _ _ _ _
+5 _ _ q _ 
+4  _ _ _ _
+3 _ _ K _ 
+2 PPPP PPP
+1 RNBQ_BNR
+          
+  abcdefgh
+
+--White is in check.--
+--black b's turn--
+8 rnbk bnr
+7 ppp pppp
+6  _ _ _ _
+5 _ _ q _ 
+4  _ _ _ _
+3 _ _ K _ 
+2 PPPP PPP
+1 RNBQ_BNR
+          
+  abcdefgh
+
+--Black is in check.--
+--White is in check.--
+--white a's turn--
+Final Score:
+White: 0
+Black: 0

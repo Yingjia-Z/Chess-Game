@@ -1,0 +1,37 @@
+game player1 player2
+move g1 f3
+move d7 d5
+move g2 g3
+move c7 c6
+move f1 g2
+move c8 g4
+move e1 g1
+move b8 d7
+move d2 d4
+move e7 e6
+move b1 d2
+move f7 f5
+move c2 c4
+move f8 d6
+move d1 b3
+move a8 b8
+move f1 e1
+move g8 h6
+move c4 d5
+move c6 d5
+move h2 h3
+move g4 h5
+move e2 e4
+move f5 e4
+move f3 g5
+move h5 f7
+move d2 e4
+move d5 e4
+move g5 e6
+move f7 e6
+move b3 e6 // ??
+move d8 e7
+move e1 e4
+move e8 d8
+move e6 d5
+

@@ -1,0 +1,1273 @@
+8 rnbqkbnr
+7 pppppppp
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2 PPPPPPPP
+1 RNBQKBNR
+          
+  abcdefgh
+
+--white computer1's turn--
+8 rnbqkbnr
+7 pppppppp
+6  _ _ _ _
+5 _ _ _ _ 
+4 P_ _ _ _
+3 _ _ _ _ 
+2  PPPPPPP
+1 RNBQKBNR
+          
+  abcdefgh
+
+--black computer1's turn--
+8 rnbqkbnr
+7 ppp pppp
+6  _ p _ _
+5 _ _ _ _ 
+4 P_ _ _ _
+3 _ _ _ _ 
+2  PPPPPPP
+1 RNBQKBNR
+          
+  abcdefgh
+
+--white computer1's turn--
+8 rnbqkbnr
+7 ppp pppp
+6  _ p _ _
+5 _ _ _ _ 
+4 P_ _ _ _
+3 _ _ _ _ 
+2  PPBPPPP
+1 RN_QKBNR
+          
+  abcdefgh
+
+--black computer1's turn--
+8 rnbqkbnr
+7 ppp pppp
+6  _ _ _ _
+5 _ _p_ _ 
+4 P_ _ _ _
+3 _ _ _ _ 
+2  PPBPPPP
+1 RN_QKBNR
+          
+  abcdefgh
+
+--white computer1's turn--
+8 rnbqkbnr
+7 ppp pppp
+6  _ _ _ _
+5 _ _p_ _ 
+4 P_ _ _ _
+3 _ _ _ _ 
+2  PPBBPPP
+1 RN_QK NR
+          
+  abcdefgh
+
+--black computer1's turn--
+8 rnbqkbnr
+7 _pp pppp
+6  _ _ _ _
+5 p _p_ _ 
+4 P_ _ _ _
+3 _ _ _ _ 
+2  PPBBPPP
+1 RN_QK NR
+          
+  abcdefgh
+
+--white computer1's turn--
+8 rnbqkbnr
+7 _pp pppp
+6  _ _ _ _
+5 p _p_ _ 
+4 PP _ _ _
+3 _ _ _ _ 
+2  _PBBPPP
+1 RN_QK NR
+          
+  abcdefgh
+
+--black computer1's turn--
+8 rn qkbnr
+7 _pp pppp
+6  _ _ _ _
+5 p _p_ _ 
+4 PP _ _b_
+3 _ _ _ _ 
+2  _PBBPPP
+1 RN_QK NR
+          
+  abcdefgh
+
+--white computer1's turn--
+8 rn qkbnr
+7 _pp pppp
+6  _ _ _ _
+5 p _p_ _ 
+4 PP _ _b_
+3 _ P _ _ 
+2  _ BBPPP
+1 RN_QK NR
+          
+  abcdefgh
+
+--black computer1's turn--
+8 rn qkbnr
+7 _pp ppp 
+6  _ _ _ _
+5 p _p_ _p
+4 PP _ _b_
+3 _ P _ _ 
+2  _ BBPPP
+1 RN_QK NR
+          
+  abcdefgh
+
+--white computer1's turn--
+8 rn qkbnr
+7 _pp ppp 
+6  _ _ _ _
+5 p _p_ _p
+4 PP _ _b_
+3 _ P _ _ 
+2  _ NBPPP
+1 R _QK NR
+          
+  abcdefgh
+
+--black computer1's turn--
+4
+2
+4
+4
+4
+3
+_
+ 
+p
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+3
+_
+5
+8  n qkbnr
+7 _pp ppp 
+6 r_ _ _ _
+5 p _p_ _p
+4 PP _ _b_
+3 _ P _ _ 
+2  _ NBPPP
+1 R _QK NR
+          
+  abcdefgh
+
+--white computer1's turn--
+8  n qkbnr
+7 _pp ppp 
+6 r_ _ _ _
+5 p _p_ _p
+4 PPP_ _b_
+3 _ _ _ _ 
+2  _ NBPPP
+1 R _QK NR
+          
+  abcdefgh
+
+--black computer1's turn--
+3
+ 
+_
+p
+4
+4
+4
+4
+4
+3
+ 
+_
+p
+2
+4
+3
+ 
+_
+p
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+2
+5
+8  n qkbr_
+7 _pp ppp 
+6 r_ _ _ _
+5 p _p_ _p
+4 PPP_ _b_
+3 _ _ _ _ 
+2  _ NBPPP
+1 R _QK NR
+          
+  abcdefgh
+
+--white computer1's turn--
+8  n qkbr_
+7 _pp ppp 
+6 r_ _ _ _
+5 p _p_ _p
+4 PPP_ _b_
+3 _ _ _N_ 
+2  _ NBPPP
+1 R _QK _R
+          
+  abcdefgh
+
+--black computer1's turn--
+8  n qkbr_
+7 _p_ ppp 
+6 r_ _ _ _
+5 p pp_ _p
+4 PPP_ _b_
+3 _ _ _N_ 
+2  _ NBPPP
+1 R _QK _R
+          
+  abcdefgh
+
+--white computer1's turn--
+8  n qkbr_
+7 _p_ ppp 
+6 r_ _ _ _
+5 p pp_ Np
+4 PPP_ _b_
+3 _ _ _ _ 
+2  _ NBPPP
+1 R _QK _R
+          
+  abcdefgh
+
+--black computer1's turn--
+8  n qkbr_
+7 _p_ p p 
+6 r_ _ _ _
+5 p pp_pNp
+4 PPP_ _b_
+3 _ _ _ _ 
+2  _ NBPPP
+1 R _QK _R
+          
+  abcdefgh
+
+--white computer1's turn--
+8  n qkbr_
+7 _p_ p p 
+6 r_ _ _ _
+5 p pp_pNp
+4 PPP_ _b_
+3 _ _ _N_ 
+2  _ _BPPP
+1 R _QK _R
+          
+  abcdefgh
+
+--black computer1's turn--
+8  n qkbr_
+7 _ _ p p 
+6 r_ _ _ _
+5 pppp_pNp
+4 PPP_ _b_
+3 _ _ _N_ 
+2  _ _BPPP
+1 R _QK _R
+          
+  abcdefgh
+
+--white computer1's turn--
+8  n qkbr_
+7 _ _ p p 
+6 r_ _ _ _
+5 pPpp_pNp
+4 PP _ _b_
+3 _ _ _N_ 
+2  _ _BPPP
+1 R _QK _R
+          
+  abcdefgh
+
+--black computer1's turn--
+8  n qkbr_
+7 _ _ p p 
+6 r_ _ _ _
+5 pPpp_pN 
+4 PP _ _bp
+3 _ _ _N_ 
+2  _ _BPPP
+1 R _QK _R
+          
+  abcdefgh
+
+--white computer1's turn--
+8  n qkbr_
+7 _ _ p pN
+6 r_ _ _ _
+5 pPpp_p_ 
+4 PP _ _bp
+3 _ _ _N_ 
+2  _ _BPPP
+1 R _QK _R
+          
+  abcdefgh
+
+--black computer1's turn--
+4
+4
+4
+4
+4
+3
+p
+4
+4
+4
+4
+4
+4
+4
+4
+2
+3
+p
+4
+4
+4
+3
+p
+4
+4
+3
+p
+4
+4
+4
+2
+5
+8  n qkr _
+7 _ _ p pN
+6 r_ _ _ _
+5 pPpp_p_ 
+4 PP _ _bp
+3 _ _ _N_ 
+2  _ _BPPP
+1 R _QK _R
+          
+  abcdefgh
+
+--white computer1's turn--
+2
+5
+8  n qkr _
+7 _ _ p pN
+6 r_ _ _ _
+5 pPpp_p_ 
+4 PP _ _bp
+3 _ _ _N_ 
+2  _ _BPPP
+1 R _QKR_ 
+          
+  abcdefgh
+
+--King castling--
+8  n qkr _
+7 _ _ p pN
+6 r_ _ _ _
+5 pPpp_p_ 
+4 PP _ _bp
+3 _ _ _N_ 
+2  _ _BPPP
+1 R _Q_RK 
+          
+  abcdefgh
+
+--black computer1's turn--
+8  n qkr _
+7 _ _ p pN
+6 r_ _ _ _
+5 pPpp_b_ 
+4 PP _ _ p
+3 _ _ _N_ 
+2  _ _BPPP
+1 R _Q_RK 
+          
+  abcdefgh
+
+--white computer1's turn--
+8  n qkr _
+7 _ _ p pN
+6 r_ _ _ _
+5 pPpp_b_ 
+4 PP _ _Pp
+3 _ _ _N_ 
+2  _ _BP P
+1 R _Q_RK 
+          
+  abcdefgh
+
+--black computer1's turn--
+4
+4
+4
+3
+ 
+_
+b
+3
+5
+8  n qk_ _
+7 _ _ prpN
+6 r_ _ _ _
+5 pPpp_b_ 
+4 PP _ _Pp
+3 _ _ _N_ 
+2  _ _BP P
+1 R _Q_RK 
+          
+  abcdefgh
+
+--white computer1's turn--
+8  n qk_ _
+7 _ _ prpN
+6 r_ _ _ _
+5 pPpp_b_ 
+4 PP _ PPp
+3 _ _ _N_ 
+2  _ _B_ P
+1 R _Q_RK 
+          
+  abcdefgh
+
+--black computer1's turn--
+8  n qk_ _
+7 _ _ _rpN
+6 r_ _ _ _
+5 pPpppb_ 
+4 PP _ PPp
+3 _ _ _N_ 
+2  _ _B_ P
+1 R _Q_RK 
+          
+  abcdefgh
+
+--white computer1's turn--
+_
+ 
+8  n qk_ _
+7 _ _ _rpN
+6 r_ _ _ _
+5 pPpppb_ 
+4 PP Q PPp
+3 _ _ _N_ 
+2  _ _B_ P
+1 R _ _RK 
+          
+  abcdefgh
+
+--black computer1's turn--
+8  n _k_ _
+7 _ _ _rpN
+6 r_ _ q _
+5 pPpppb_ 
+4 PP Q PPp
+3 _ _ _N_ 
+2  _ _B_ P
+1 R _ _RK 
+          
+  abcdefgh
+
+--white computer1's turn--
+8  n _k_ _
+7 _ _ _rpN
+6 r_ _ q _
+5 pPpppb_ 
+4 PP Q PPp
+3 _ _ _N_ 
+2  _ _B_ K
+1 R _ _R_ 
+          
+  abcdefgh
+
+--black computer1's turn--
+4
+4
+4
+4
+4
+4
+3
+q
+4
+4
+4
+3
+q
+4
+4
+4
+4
+4
+4
+3
+q
+4
+4
+4
+3
+5
+8  n _kr _
+7 _ _ _ pN
+6 r_ _ q _
+5 pPpppb_ 
+4 PP Q PPp
+3 _ _ _N_ 
+2  _ _B_ K
+1 R _ _R_ 
+          
+  abcdefgh
+
+--white computer1's turn--
+4
+4
+4
+4
+4
+3
+_
+5
+8  n _kr _
+7 _ _ _ pN
+6 r_ _ q _
+5 pPpppb_ 
+4 PP Q PPp
+3 _ _ _R_ 
+2  _ _B_ K
+1 R _ _ _ 
+          
+  abcdefgh
+
+--black computer1's turn--
+8  n _kr _
+7 _ _ _ pN
+6 r_ _ q _
+5 pP_ppb_ 
+4 PPpQ PPp
+3 _ _ _R_ 
+2  _ _B_ K
+1 R _ _ _ 
+          
+  abcdefgh
+
+--white computer1's turn--
+8  n _kr _
+7 _ _ _ pN
+6 r_ _ q _
+5 pP_ppb_ 
+4 PPpQ PPp
+3 _ _ _R_ 
+2  _ _ _ K
+1 R _B_ _ 
+          
+  abcdefgh
+
+--black computer1's turn--
+3
+p
+3
+p
+4
+4
+4
+4
+2
+5
+8  n _kr _
+7 _ _ _ pN
+6  _ r q _
+5 pP_ppb_ 
+4 PPpQ PPp
+3 _ _ _R_ 
+2  _ _ _ K
+1 R _B_ _ 
+          
+  abcdefgh
+
+--white computer1's turn--
+8  n _kr _
+7 _ _ _ pN
+6  _ r q _
+5 pPQppb_ 
+4 PPp_ PPp
+3 _ _ _R_ 
+2  _ _ _ K
+1 R _B_ _ 
+          
+  abcdefgh
+
+--black computer1's turn--
+8  n _kr _
+7 _ _ _ pN
+6  _ r q _
+5 pPQ pb_ 
+4 PPpp PPp
+3 _ _ _R_ 
+2  _ _ _ K
+1 R _B_ _ 
+          
+  abcdefgh
+
+--white computer1's turn--
+4
+4
+4
+3
+5
+8  n _kr _
+7 _ _ _ pN
+6  _ r q _
+5 pPQ pb_ 
+4 PPpp RPp
+3 _ _ _ _ 
+2  _ _ _ K
+1 R _B_ _ 
+          
+  abcdefgh
+
+--black computer1's turn--
+4
+4
+4
+3
+5
+8  n _kr _
+7 _ _ _ pN
+6  _ _ q _
+5 pPQrpb_ 
+4 PPpp RPp
+3 _ _ _ _ 
+2  _ _ _ K
+1 R _B_ _ 
+          
+  abcdefgh
+
+--white computer1's turn--
+4
+4
+3
+ 
+_
+P
+4
+4
+4
+4
+4
+3
+ 
+5
+8  n _kr _
+7 _ _ _ pN
+6  _ _ q _
+5 pPQrpb_ 
+4 PPpp RPp
+3 R _ _ _ 
+2  _ _ _ K
+1 _ _B_ _ 
+          
+  abcdefgh
+
+--black computer1's turn--
+8  n _kr _
+7 _ _ _ pN
+6  _ _ q _
+5 _PQrpb_ 
+4 Pppp RPp
+3 R _ _ _ 
+2  _ _ _ K
+1 _ _B_ _ 
+          
+  abcdefgh
+
+--white computer1's turn--
+8  n _kr _
+7 _ _ _ pN
+6  _ _ q _
+5 PPQrpb_ 
+4  ppp RPp
+3 R _ _ _ 
+2  _ _ _ K
+1 _ _B_ _ 
+          
+  abcdefgh
+
+--black computer1's turn--
+4
+4
+4
+4
+4
+4
+3
+5
+8  n _k_ _
+7 _ _ _rpN
+6  _ _ q _
+5 PPQrpb_ 
+4  ppp RPp
+3 R _ _ _ 
+2  _ _ _ K
+1 _ _B_ _ 
+          
+  abcdefgh
+
+--white computer1's turn--
+8  n _k_ _
+7 _ _ _rpN
+6 P_ _ q _
+5 _PQrpb_ 
+4  ppp RPp
+3 R _ _ _ 
+2  _ _ _ K
+1 _ _B_ _ 
+          
+  abcdefgh
+
+--black computer1's turn--
+8  n _k_ _
+7 _ _ _rpN
+6 P_ _bq _
+5 _PQrp _ 
+4  ppp RPp
+3 R _ _ _ 
+2  _ _ _ K
+1 _ _B_ _ 
+          
+  abcdefgh
+
+--white computer1's turn--
+8  n _k_ _
+7 _ _ _rpN
+6 P_ _bq _
+5 _PQrp _ 
+4  ppp RPp
+3 RB_ _ _ 
+2  _ _ _ K
+1 _ _ _ _ 
+          
+  abcdefgh
+
+--black computer1's turn--
+8  n _k_ _
+7 _ _ _r_N
+6 P_ _bqp_
+5 _PQrp _ 
+4  ppp RPp
+3 RB_ _ _ 
+2  _ _ _ K
+1 _ _ _ _ 
+          
+  abcdefgh
+
+--white computer1's turn--
+4
+4
+4
+4
+4
+4
+4
+2
+4
+4
+4
+4
+3
+ 
+5
+8  n _k_ _
+7 _ _ _r_N
+6 P_ _bqp_
+5 RPQrp _ 
+4  ppp RPp
+3 _B_ _ _ 
+2  _ _ _ K
+1 _ _ _ _ 
+          
+  abcdefgh
+
+--black computer1's turn--
+8  n k _ _
+7 _ _ _r_N
+6 P_ _bqp_
+5 RPQrp _ 
+4  ppp RPp
+3 _B_ _ _ 
+2  _ _ _ K
+1 _ _ _ _ 
+          
+  abcdefgh
+
+--white computer1's turn--
+8  n k Q _
+7 _ _ _r_N
+6 P_ _bqp_
+5 RP_rp _ 
+4  ppp RPp
+3 _B_ _ _ 
+2  _ _ _ K
+1 _ _ _ _ 
+          
+  abcdefgh
+
+--black computer1's turn--
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+3
+q
+4
+4
+4
+4
+2
+5
+8  n k Q _
+7 _ _ _ rN
+6 P_ _bqp_
+5 RP_rp _ 
+4  ppp RPp
+3 _B_ _ _ 
+2  _ _ _ K
+1 _ _ _ _ 
+          
+  abcdefgh
+
+--white computer1's turn--
+8  n k Q _
+7 P _ _ rN
+6  _ _bqp_
+5 RP_rp _ 
+4  ppp RPp
+3 _B_ _ _ 
+2  _ _ _ K
+1 _ _ _ _ 
+          
+  abcdefgh
+
+--black computer1's turn--
+8  n k Q _
+7 P _ _ rN
+6  _ _bqp_
+5 RP_rp _ 
+4  p p RPp
+3 _Bp _ _ 
+2  _ _ _ K
+1 _ _ _ _ 
+          
+  abcdefgh
+
+--white computer1's turn--
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+2
+4
+4
+2
+2
+3
+ 
+q
+4
+4
+4
+4
+3
+ 
+q
+4
+2
+5
+8  n k Q _
+7 P _ _ rN
+6  _ _bqp_
+5 RP_rp _ 
+4  p pR_Pp
+3 _Bp _ _ 
+2  _ _ _ K
+1 _ _ _ _ 
+          
+  abcdefgh
+
+--black computer1's turn--
+8  n k Q _
+7 P _ _ rN
+6  _ _bqp_
+5 RP_rp _ 
+4  p _R_Pp
+3 _Bpp_ _ 
+2  _ _ _ K
+1 _ _ _ _ 
+          
+  abcdefgh
+
+--white computer1's turn--
+--Not a piece, please check the board--
+8  n k Q _
+7 P _ _ rN
+6  _ _bqp_
+5 RP_rp _ 
+4  p _R_Pp
+3 _Bpp_ _ 
+2  _ _ _ _
+1 _ _ _ _K
+          
+  abcdefgh
+
+--black computer1's turn--
+4
+4
+4
+2
+4
+3
+5
+8  n k Q _
+7 P _ _ rN
+6  _ _bqp_
+5 RP_ p _ 
+4  p rR_Pp
+3 _Bpp_ _ 
+2  _ _ _ _
+1 _ _ _ _K
+          
+  abcdefgh
+
+--white computer1's turn--
+8  n k Q _
+7 P _ _ rN
+6  _ _bqp_
+5 RP_ p _ 
+4  p rR_Pp
+3 _ pp_ _ 
+2  _ _ _ _
+1 _ _B_ _K
+          
+  abcdefgh
+
+--black computer1's turn--
+8  n k Q _
+7 P _ _ rN
+6  _ _bqp_
+5 RP_ p _ 
+4  p rR_P_
+3 _ pp_ _p
+2  _ _ _ _
+1 _ _B_ _K
+          
+  abcdefgh
+
+--white computer1's turn--
+ 
+q
+ 
+q
+ 
+q
+8  n k _ Q
+7 P _ _ rN
+6  _ _bqp_
+5 RP_ p _ 
+4  p rR_P_
+3 _ pp_ _p
+2  _ _ _ _
+1 _ _B_ _K
+          
+  abcdefgh
+
+--black computer1's turn--
+8  n kQ_ _
+7 P _ _ rN
+6  _ _bqp_
+5 RP_ p _ 
+4  p rR_P_
+3 _ pp_ _p
+2  _ _ _ _
+1 _ _B_ _K
+          
+  abcdefgh
+
+--King castling--
+8  n _Qk _
+7 P _ _ rN
+6  _ _bqp_
+5 RP_ p _ 
+4  p rR_P_
+3 _ pp_ _p
+2  _ _ _ _
+1 _ _B_ _K
+          
+  abcdefgh
+
+--white computer1's turn--
+8  n _Qk _
+7 P _ _ rN
+6  _ _bqp_
+5 RP_ p P 
+4  p rR_ _
+3 _ pp_ _p
+2  _ _ _ _
+1 _ _B_ _K
+          
+  abcdefgh
+
+--black computer1's turn--
+8  n _Qk _
+7 P _ _ rN
+6  _ _bqp_
+5 RP_ p P 
+4  p rR_ _
+3 _ _p_ _p
+2  _p_ _ _
+1 _ _B_ _K
+          
+  abcdefgh
+
+--white computer1's turn--
+4
+3
+5
+8  n _Qk _
+7 P _ _ rN
+6  _ _bqp_
+5 RP_ R P 
+4  p r _ _
+3 _ _p_ _p
+2  _p_ _ _
+1 _ _B_ _K
+          
+  abcdefgh
+
+--black computer1's turn--
+8  n _Qk _
+7 P _ _ rN
+6  _ _bqp_
+5 RP_ R P 
+4  p r _ _
+3 _ _ _ _p
+2  _pp _ _
+1 _ _B_ _K
+          
+  abcdefgh
+
+--white computer1's turn--
+8  P _Qk _
+7 _ _ _ rN
+6  _ _bqp_
+5 RP_ R P 
+4  p r _ _
+3 _ _ _ _p
+2  _pp _ _
+1 _ _B_ _K
+          
+  abcdefgh
+
+--black computer1's turn--
+8  P _Qk _
+7 _ _ _ rN
+6  _ _bqp_
+5 RP_ R P 
+4  _ r _ _
+3 _p_ _ _p
+2  _pp _ _
+1 _ _B_ _K
+          
+  abcdefgh
+
+--white computer1's turn--
+8  Q _ k _
+7 _ _ _ rN
+6  _ _bqp_
+5 RP_ R P 
+4  _ r _ _
+3 _p_ _ _p
+2  _pp _ _
+1 _ _B_ _K
+          
+  abcdefgh
+
+--black computer1's turn--
+8  Q _ k _
+7 _ _ _ rN
+6  _ _bqp_
+5 RP_ R P 
+4  _ r _ _
+3 _ _ _ _p
+2  ppp _ _
+1 _ _B_ _K
+          
+  abcdefgh
+
+--white computer1's turn--
+8  Q _ k _
+7 _ _ _ rN
+6  _ _bPp_
+5 RP_ R _ 
+4  _ r _ _
+3 _ _ _ _p
+2  ppp _ _
+1 _ _B_ _K
+          
+  abcdefgh
+
+--black computer1's turn--
+8  Q _ _k_
+7 _ _ _ rN
+6  _ _bPp_
+5 RP_ R _ 
+4  _ r _ _
+3 _ _ _ _p
+2  ppp _ _
+1 _ _B_ _K
+          
+  abcdefgh
+
+--white computer1's turn--
+8  Q _ _k_
+7 _ _ _ rN
+6  _ _bPp_
+5 RP_ R _ 
+4  _ r _ _
+3 _ _ _ _p
+2  ppp _ _
+1 _ _B_ K 
+          
+  abcdefgh
+
+--black computer1's turn--
+8  Q _ _k_
+7 _ _ _ rN
+6  _ _bPp_
+5 RP_ R _ 
+4  _ r _ _
+3 _ _ _ _p
+2  _pp _ _
+1 _p_B_ K 
+          
+  abcdefgh
+
+--white computer1's turn--
+8  Q _ _k_
+7 _ _ _PrN
+6  _ _b_p_
+5 RP_ R _ 
+4  _ r _ _
+3 _ _ _ _p
+2  _pp _ _
+1 _p_B_ K 
+          
+  abcdefgh
+
+--black computer1's turn--
+8  Q _ _k_
+7 _ _ _PrN
+6  _ _b_p_
+5 RP_ R _ 
+4  _ r _ _
+3 _ _ _ _ 
+2  _pp _ p
+1 _p_B_ K 
+          
+  abcdefgh
+
+--white computer1's turn--
+8  Q _ _k_
+7 _ _ _PrN
+6  P _b_p_
+5 R _ R _ 
+4  _ r _ _
+3 _ _ _ _ 
+2  _pp _ p
+1 _p_B_ K 
+          
+  abcdefgh
+
+--black computer1's turn--
+8  Q _ _k_
+7 _ _ _PrN
+6  P _b_ _
+5 R _ R p 
+4  _ r _ _
+3 _ _ _ _ 
+2  _pp _ p
+1 _p_B_ K 
+          
+  abcdefgh
+
+--white computer1's turn--
+8  Q _ _P_
+7 _ _ _ rN
+6  P _b_ _
+5 R _ R p 
+4  _ r _ _
+3 _ _ _ _ 
+2  _pp _ p
+1 _p_B_ K 
+          
+  abcdefgh
+
+--black computer1's turn--
+--black king has been captured, white wins--
+Final Score:
+White: 1
+Black: 0

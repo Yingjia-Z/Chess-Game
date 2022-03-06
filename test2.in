@@ -1,0 +1,6 @@
+setup
++ Q b3
++ p e6
+done
+move b3 b6
+move b6 e6

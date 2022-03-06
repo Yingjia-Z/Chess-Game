@@ -1,0 +1,453 @@
+8 rnbqkbnr
+7 pppppppp
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2 PPPPPPPP
+1 RNBQKBNR
+          
+  abcdefgh
+
+--Round 1, white player1's turn--
+8 rnbqkbnr
+7 pppppppp
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _N_ 
+2 PPPPPPPP
+1 RNBQKB_R
+          
+  abcdefgh
+
+--Round 1, black player2's turn--
+8 rnbqkbnr
+7 ppp pppp
+6  _ _ _ _
+5 _ _p_ _ 
+4  _ _ _ _
+3 _ _ _N_ 
+2 PPPPPPPP
+1 RNBQKB_R
+          
+  abcdefgh
+
+--Round 2, white player1's turn--
+8 rnbqkbnr
+7 ppp pppp
+6  _ _ _ _
+5 _ _p_ _ 
+4  _ _ _ _
+3 _ _ _NP 
+2 PPPPPP P
+1 RNBQKB_R
+          
+  abcdefgh
+
+--Round 2, black player2's turn--
+8 rnbqkbnr
+7 pp_ pppp
+6  _p_ _ _
+5 _ _p_ _ 
+4  _ _ _ _
+3 _ _ _NP 
+2 PPPPPP P
+1 RNBQKB_R
+          
+  abcdefgh
+
+--Round 3, white player1's turn--
+8 rnbqkbnr
+7 pp_ pppp
+6  _p_ _ _
+5 _ _p_ _ 
+4  _ _ _ _
+3 _ _ _NP 
+2 PPPPPPBP
+1 RNBQK _R
+          
+  abcdefgh
+
+--Round 3, black player2's turn--
+8 rn qkbnr
+7 pp_ pppp
+6  _p_ _ _
+5 _ _p_ _ 
+4  _ _ _b_
+3 _ _ _NP 
+2 PPPPPPBP
+1 RNBQK _R
+          
+  abcdefgh
+
+--Round 4, white player1's turn--
+8 rn qkbnr
+7 pp_ pppp
+6  _p_ _ _
+5 _ _p_ _ 
+4  _ _ _b_
+3 _ _ _NP 
+2 PPPPPPBP
+1 RNBQKR_ 
+          
+  abcdefgh
+
+--King castling--
+8 rn qkbnr
+7 pp_ pppp
+6  _p_ _ _
+5 _ _p_ _ 
+4  _ _ _b_
+3 _ _ _NP 
+2 PPPPPPBP
+1 RNBQ_RK 
+          
+  abcdefgh
+
+--Round 4, black player2's turn--
+8 r_ qkbnr
+7 pp_npppp
+6  _p_ _ _
+5 _ _p_ _ 
+4  _ _ _b_
+3 _ _ _NP 
+2 PPPPPPBP
+1 RNBQ_RK 
+          
+  abcdefgh
+
+--Round 5, white player1's turn--
+8 r_ qkbnr
+7 pp_npppp
+6  _p_ _ _
+5 _ _p_ _ 
+4  _ P _b_
+3 _ _ _NP 
+2 PPP_PPBP
+1 RNBQ_RK 
+          
+  abcdefgh
+
+--Round 5, black player2's turn--
+8 r_ qkbnr
+7 pp_n_ppp
+6  _p_p_ _
+5 _ _p_ _ 
+4  _ P _b_
+3 _ _ _NP 
+2 PPP_PPBP
+1 RNBQ_RK 
+          
+  abcdefgh
+
+--Round 6, white player1's turn--
+8 r_ qkbnr
+7 pp_n_ppp
+6  _p_p_ _
+5 _ _p_ _ 
+4  _ P _b_
+3 _ _ _NP 
+2 PPPNPPBP
+1 R BQ_RK 
+          
+  abcdefgh
+
+--Round 6, black player2's turn--
+8 r_ qkbnr
+7 pp_n_ pp
+6  _p_p_ _
+5 _ _p_p_ 
+4  _ P _b_
+3 _ _ _NP 
+2 PPPNPPBP
+1 R BQ_RK 
+          
+  abcdefgh
+
+--Round 7, white player1's turn--
+8 r_ qkbnr
+7 pp_n_ pp
+6  _p_p_ _
+5 _ _p_p_ 
+4  _PP _b_
+3 _ _ _NP 
+2 PP NPPBP
+1 R BQ_RK 
+          
+  abcdefgh
+
+--Round 7, black player2's turn--
+8 r_ qk_nr
+7 pp_n_ pp
+6  _pbp_ _
+5 _ _p_p_ 
+4  _PP _b_
+3 _ _ _NP 
+2 PP NPPBP
+1 R BQ_RK 
+          
+  abcdefgh
+
+--Round 8, white player1's turn--
+ 
+8 r_ qk_nr
+7 pp_n_ pp
+6  _pbp_ _
+5 _ _p_p_ 
+4  _PP _b_
+3 _Q_ _NP 
+2 PP NPPBP
+1 R B _RK 
+          
+  abcdefgh
+
+--Round 8, black player2's turn--
+8  r qk_nr
+7 pp_n_ pp
+6  _pbp_ _
+5 _ _p_p_ 
+4  _PP _b_
+3 _Q_ _NP 
+2 PP NPPBP
+1 R B _RK 
+          
+  abcdefgh
+
+--Round 9, white player1's turn--
+8  r qk_nr
+7 pp_n_ pp
+6  _pbp_ _
+5 _ _p_p_ 
+4  _PP _b_
+3 _Q_ _NP 
+2 PP NPPBP
+1 R B R K 
+          
+  abcdefgh
+
+--Round 9, black player2's turn--
+8  r qk_ r
+7 pp_n_ pp
+6  _pbp_ n
+5 _ _p_p_ 
+4  _PP _b_
+3 _Q_ _NP 
+2 PP NPPBP
+1 R B R K 
+          
+  abcdefgh
+
+--Round 10, white player1's turn--
+8  r qk_ r
+7 pp_n_ pp
+6  _pbp_ n
+5 _ _P_p_ 
+4  _ P _b_
+3 _Q_ _NP 
+2 PP NPPBP
+1 R B R K 
+          
+  abcdefgh
+
+--Round 10, black player2's turn--
+8  r qk_ r
+7 pp_n_ pp
+6  _ bp_ n
+5 _ _p_p_ 
+4  _ P _b_
+3 _Q_ _NP 
+2 PP NPPBP
+1 R B R K 
+          
+  abcdefgh
+
+--Round 11, white player1's turn--
+8  r qk_ r
+7 pp_n_ pp
+6  _ bp_ n
+5 _ _p_p_ 
+4  _ P _b_
+3 _Q_ _NPP
+2 PP NPPB_
+1 R B R K 
+          
+  abcdefgh
+
+--Round 11, black player2's turn--
+8  r qk_ r
+7 pp_n_ pp
+6  _ bp_ n
+5 _ _p_p_b
+4  _ P _ _
+3 _Q_ _NPP
+2 PP NPPB_
+1 R B R K 
+          
+  abcdefgh
+
+--Round 12, white player1's turn--
+8  r qk_ r
+7 pp_n_ pp
+6  _ bp_ n
+5 _ _p_p_b
+4  _ PP_ _
+3 _Q_ _NPP
+2 PP N PB_
+1 R B R K 
+          
+  abcdefgh
+
+--Round 12, black player2's turn--
+8  r qk_ r
+7 pp_n_ pp
+6  _ bp_ n
+5 _ _p_ _b
+4  _ Pp_ _
+3 _Q_ _NPP
+2 PP N PB_
+1 R B R K 
+          
+  abcdefgh
+
+--Round 13, white player1's turn--
+8  r qk_ r
+7 pp_n_ pp
+6  _ bp_ n
+5 _ _p_ Nb
+4  _ Pp_ _
+3 _Q_ _ PP
+2 PP N PB_
+1 R B R K 
+          
+  abcdefgh
+
+--Round 13, black player2's turn--
+8  r qk_ r
+7 pp_n_bpp
+6  _ bp_ n
+5 _ _p_ N 
+4  _ Pp_ _
+3 _Q_ _ PP
+2 PP N PB_
+1 R B R K 
+          
+  abcdefgh
+
+--Round 14, white player1's turn--
+8  r qk_ r
+7 pp_n_bpp
+6  _ bp_ n
+5 _ _p_ N 
+4  _ PN_ _
+3 _Q_ _ PP
+2 PP _ PB_
+1 R B R K 
+          
+  abcdefgh
+
+--Round 14, black player2's turn--
+8  r qk_ r
+7 pp_n_bpp
+6  _ bp_ n
+5 _ _ _ N 
+4  _ Pp_ _
+3 _Q_ _ PP
+2 PP _ PB_
+1 R B R K 
+          
+  abcdefgh
+
+--Round 15, white player1's turn--
+8  r qk_ r
+7 pp_n_bpp
+6  _ bN_ n
+5 _ _ _ _ 
+4  _ Pp_ _
+3 _Q_ _ PP
+2 PP _ PB_
+1 R B R K 
+          
+  abcdefgh
+
+--Round 15, black player2's turn--
+8  r qk_ r
+7 pp_n_ pp
+6  _ bb_ n
+5 _ _ _ _ 
+4  _ Pp_ _
+3 _Q_ _ PP
+2 PP _ PB_
+1 R B R K 
+          
+  abcdefgh
+
+--Round 16, white player1's turn--
+ 
+ 
+8  r qk_ r
+7 pp_n_ pp
+6  _ bQ_ n
+5 _ _ _ _ 
+4  _ Pp_ _
+3 _ _ _ PP
+2 PP _ PB_
+1 R B R K 
+          
+  abcdefgh
+
+--Black is in check.--
+--Round 16, black player2's turn--
+--Incorect command, please input again--
+--Round 16, black player2's turn--
+8  r _k_ r
+7 pp_nq pp
+6  _ bQ_ n
+5 _ _ _ _ 
+4  _ Pp_ _
+3 _ _ _ PP
+2 PP _ PB_
+1 R B R K 
+          
+  abcdefgh
+
+--Round 17, white player1's turn--
+8  r _k_ r
+7 pp_nq pp
+6  _ bQ_ n
+5 _ _ _ _ 
+4  _ PR_ _
+3 _ _ _ PP
+2 PP _ PB_
+1 R B _ K 
+          
+  abcdefgh
+
+--Round 17, black player2's turn--
+8  r k _ r
+7 pp_nq pp
+6  _ bQ_ n
+5 _ _ _ _ 
+4  _ PR_ _
+3 _ _ _ PP
+2 PP _ PB_
+1 R B _ K 
+          
+  abcdefgh
+
+--Round 18, white player1's turn--
+8  r k _ r
+7 pp_nq pp
+6  _ b _ n
+5 _ _Q_ _ 
+4  _ PR_ _
+3 _ _ _ PP
+2 PP _ PB_
+1 R B _ K 
+          
+  abcdefgh
+
+--Round 18, black player2's turn--
+Final Score:
+White: 0
+Black: 0

@@ -1,0 +1,8 @@
+setup
++ r e4
++ p e3
+done
+move e4 e2
+move e2 e6
+move e6 a6
+move a6 h6

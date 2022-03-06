@@ -1,0 +1,297 @@
+8  _ _ _ _
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2  _ _ _ _
+1 _ _ _ _ 
+          
+  abcdefgh
+
+8  _ _ _ _
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2  _ _ _ _
+1 _ _ K _ 
+          
+  abcdefgh
+
+8  _ _k_ _
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2  _ _ _ _
+1 _ _ K _ 
+          
+  abcdefgh
+
+--Invalid piece, please input again--
+--Invalid piece, please input again--
+8  _ _k_ _
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ _ _ _ 
+4  _R_ _ _
+3 _ _ _ _ 
+2  _ _ _ _
+1 _ _ K _ 
+          
+  abcdefgh
+
+8  _ _k_ _
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2  _ _ _ _
+1 _ _ K _ 
+          
+  abcdefgh
+
+8  _ _k_ _
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2  _ _ _ _
+1 _ _ _ _ 
+          
+  abcdefgh
+
+8  _ _k_ _
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _k_ _ 
+2  _ _ _ _
+1 _ _ _ _ 
+          
+  abcdefgh
+
+8  _ _k_ _
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _k_ _ 
+2  _ _k_ _
+1 _ _ _ _ 
+          
+  abcdefgh
+
+8  _ _k_ _
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _kR _ 
+2  _ _k_ _
+1 _ _ _ _ 
+          
+  abcdefgh
+
+8  _ _k_ _
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _kR _ 
+2  _ _k_ _
+1 K _ _ _ 
+          
+  abcdefgh
+
+8  _ _k_ _
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _kR _ 
+2 K_ _k_ _
+1 K _ _ _ 
+          
+  abcdefgh
+
+8  _ _k_ _
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ _ _ Q 
+4  _ _ _ _
+3 _ _kR _ 
+2 K_ _k_ _
+1 K _ _ _ 
+          
+  abcdefgh
+
+8  p _k_ _
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ _ _ Q 
+4  _ _ _ _
+3 _ _kR _ 
+2 K_ _k_ _
+1 K _ _ _ 
+          
+  abcdefgh
+
+8  pp_k_ _
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ _ _ Q 
+4  _ _ _ _
+3 _ _kR _ 
+2 K_ _k_ _
+1 K _ _ _ 
+          
+  abcdefgh
+
+8  pp_k_ P
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ _ _ Q 
+4  _ _ _ _
+3 _ _kR _ 
+2 K_ _k_ _
+1 K _ _ _ 
+          
+  abcdefgh
+
+8  pp_k_ P
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ _ _ Q 
+4  _ _ _ _
+3 _ _kR _ 
+2 K_ _k_ _
+1 K _ P _ 
+          
+  abcdefgh
+
+8  pp_k_ P
+7 _ _ _ _ 
+6  _p_ _ _
+5 _ _ _ Q 
+4  _ _ _ _
+3 _ _kR _ 
+2 K_ _k_ _
+1 K _ P _ 
+          
+  abcdefgh
+
+--Pawns exist on the first row of the board, cannot exit setup mode--
+8  _p_k_ P
+7 _ _ _ _ 
+6  _p_ _ _
+5 _ _ _ Q 
+4  _ _ _ _
+3 _ _kR _ 
+2 K_ _k_ _
+1 K _ P _ 
+          
+  abcdefgh
+
+8  _ _k_ P
+7 _ _ _ _ 
+6  _p_ _ _
+5 _ _ _ Q 
+4  _ _ _ _
+3 _ _kR _ 
+2 K_ _k_ _
+1 K _ P _ 
+          
+  abcdefgh
+
+8  _ _k_ _
+7 _ _ _ _ 
+6  _p_ _ _
+5 _ _ _ Q 
+4  _ _ _ _
+3 _ _kR _ 
+2 K_ _k_ _
+1 K _ P _ 
+          
+  abcdefgh
+
+8  _ _k_ _
+7 _ _ _ _ 
+6  _p_ _ _
+5 _ _ _ Q 
+4  _ _ _ _
+3 _ _kR _ 
+2 K_ _k_ _
+1 K _ _ _ 
+          
+  abcdefgh
+
+--More than one black king exists, cannot exit setup mode--
+8  _ _k_ _
+7 _ _ _ _ 
+6  _p_ _ _
+5 _ _ _ Q 
+4  _ _ _ _
+3 _ _ R _ 
+2 K_ _k_ _
+1 K _ _ _ 
+          
+  abcdefgh
+
+8  _ _k_ _
+7 _ _ _ _ 
+6  _p_ _ _
+5 _ _ _ Q 
+4  _ _ _ _
+3 _ _ R _ 
+2 K_ _ _ _
+1 K _ _ _ 
+          
+  abcdefgh
+
+--More than one white king exists, cannot exit setup mode--
+8  _ _k_ _
+7 _ _ _ _ 
+6  _p_ _ _
+5 _ _ _ Q 
+4  _ _ _ _
+3 _ _ R _ 
+2  _ _ _ _
+1 K _ _ _ 
+          
+  abcdefgh
+
+--Black is in check, cannot exit setup mode--
+8  _ _k_ _
+7 _ _ _ _ 
+6  _p_ _ _
+5 _ _ _ Q 
+4  _ _ _ _
+3 _ _ _ _ 
+2  _ _ _ _
+1 K _ _ _ 
+          
+  abcdefgh
+
+--Exit setup mode--
+8  _ _k_ _
+7 _ _ _ _ 
+6  _p_ _ _
+5 _ _ _ Q 
+4  _ _ _ _
+3 _ _ _ _ 
+2  _ _ _ _
+1 K _ _ _ 
+          
+  abcdefgh
+
+--Round 1, black player2's turn--
+Final Score:
+White: 0
+Black: 0
